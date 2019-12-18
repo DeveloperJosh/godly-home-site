@@ -1,0 +1,23 @@
+body {
+  background-color: #000000;
+}
+
+.Navigation {
+  background-color: #555555;
+  width: 100%;
+  overflow: auto;
+}
+
+.Navigation a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.Navigation a:hover {
+  background-color: #11111;
+}
